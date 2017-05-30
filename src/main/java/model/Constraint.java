@@ -7,6 +7,7 @@ import java.util.List;
  * Created by alexandermiheev on 27.05.17.
  */
 
+// This class contains all the initial constraints from the initial data
 // Amount of places - number of places, that should be visited
 // Places to visit - list of places with working hours and dumping time
 // Travel times - list of travel times from the department to the first place, between the places, and from the last place back to the department

@@ -5,6 +5,8 @@ import java.time.LocalTime;
 /**
  * Created by alexandermiheev on 27.05.17.
  */
+
+
 public class Task {
     private LocalTime departmentStartTime;
     private LocalTime departmentEndTime;
