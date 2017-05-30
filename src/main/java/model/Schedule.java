@@ -89,7 +89,7 @@ public class Schedule {
 
         return true;
     }
-
+    // Using binary search to get the optimal starting time
     private void computeOptimalStartTime() {
         int minValue = departmentStartTime;
         int maxValue = departmentEndTime;
