@@ -9,7 +9,7 @@ import java.util.List;
 
 // Amount of places - number of places, that should be visited
 // Places to visit - list of places with working hours and dumping time
-// Travel times - list of travel times from the department to the first place, ..., from the last place back to the department
+// Travel times - list of travel times from the department to the first place, between the places, and from the last place back to the department
 
 public class Constraint {
     private Integer amountOfPlaces;
